@@ -1,0 +1,58 @@
+{
+  "format": "eword",
+  "version": 2,
+  "exported_at": "2026-11-07T10:00:47.314116Z",
+  "words": [
+    {
+      "sync_id": "a072aeff7870a1c7a7d3b286042c5ea0",
+      "term": "square",
+      "definition": "正方形",
+      "example_en": "These shapes are squares.",
+      "example_zh": "这些图形是正方形",
+      "created_at": 1793950131,
+      "updated_at": 1793950131,
+      "deleted_at": null
+    },
+    {
+      "sync_id": "e7f3cf5a4b4f15a0dd6eb8e02a4220ab",
+      "term": "shepherd",
+      "definition": "牧羊人",
+      "example_en": "A shepherd boy tends his master's sheep every day.",
+      "example_zh": "一个小牧羊人，每天都照管着主人的羊。",
+      "created_at": 1793950285,
+      "updated_at": 1793950285,
+      "deleted_at": null
+    },
+    {
+      "sync_id": "424281b21562ac6984b3f35b3daf8419",
+      "term": "auxiliary",
+      "definition": "辅助的",
+      "example_en": "If you are serious,what about being an auxiliary nurse?",
+      "example_zh": "如果你是真心的，那么做一名助理护士如何？",
+      "created_at": 1793950752,
+      "updated_at": 1793950752,
+      "deleted_at": null
+    },
+    {
+      "sync_id": "63116c5916dd2f6d3e3f81ec62159ae9",
+      "term": "fracture",
+      "definition": "裂缝",
+      "example_en": "He died because of the rib fracture",
+      "example_zh": "他死于肋骨骨折",
+      "created_at": 1793951907,
+      "updated_at": 1793951907,
+      "deleted_at": null
+    },
+    {
+      "sync_id": "8257aa498628d4aae9a5915469d21154",
+      "term": "shrub",
+      "definition": "灌木",
+      "example_en": "Tea is the leaf of an evergreen shrub which grows in China and Japan.",
+      "example_zh": "茶叶是一种长青灌木的叶子，这种灌木成长在中国和日本。",
+      "created_at": 1793952035,
+      "updated_at": 1793952035,
+      "deleted_at": null
+    }
+  ],
+  "attempts": []
+}
