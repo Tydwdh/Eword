@@ -1,7 +1,7 @@
 {
   "format": "eword",
   "version": 2,
-  "exported_at": "2026-11-09T07:48:17.8623551Z",
+  "exported_at": "2026-11-09T08:04:13.597771Z",
   "words": [
     {
       "sync_id": "a072aeff7870a1c7a7d3b286042c5ea0",
@@ -162,6 +162,46 @@
       "created_at": 1794209799,
       "updated_at": 1794209799,
       "deleted_at": null
+    },
+    {
+      "sync_id": "318d7afd5f763ed8e411ab19747c2eab",
+      "term": "denote",
+      "definition": "表示，代表",
+      "example_en": "\"Katherine\",coined by the ancient Greeks,it denotes \"purity\".",
+      "example_zh": "“katherine”，源自古希腊，意思是纯洁。",
+      "created_at": 1794210687,
+      "updated_at": 1794210687,
+      "deleted_at": null
+    },
+    {
+      "sync_id": "85fc2b3deb1ec5b3195204d0d775fa21",
+      "term": "successor",
+      "definition": "接任者，继承者",
+      "example_en": "I swear to uphold the king's heirs and lawful successors.",
+      "example_zh": "我立誓拥护皇帝的子嗣以及法定继承人。",
+      "created_at": 1794210887,
+      "updated_at": 1794210887,
+      "deleted_at": null
+    },
+    {
+      "sync_id": "aee31ee61c8f84d3359d1b9fe1a9491b",
+      "term": "slack",
+      "definition": "萧条的，懈怠的",
+      "example_en": "Business is slack now.",
+      "example_zh": "现在生意萧条",
+      "created_at": 1794210954,
+      "updated_at": 1794210954,
+      "deleted_at": null
+    },
+    {
+      "sync_id": "97aabac0e883f7a3e860c403b0e344ce",
+      "term": "attend",
+      "definition": "出席，参加",
+      "example_en": "I will not be able to attend your wedding.",
+      "example_zh": "我不能来参加你们的婚礼了。",
+      "created_at": 1794211037,
+      "updated_at": 1794211037,
+      "deleted_at": null
     }
   ],
   "attempts": [
@@ -252,6 +292,50 @@
       "revealed": false,
       "duration_ms": 52455,
       "created_at": 1794208809
+    },
+    {
+      "sync_id": "6c1264ec5fbae5a4491cf99b559413a5",
+      "word_sync_id": "2f0c7b993471920e11ac07340abd19ab",
+      "term": "incumbent",
+      "typed": "Charies is incumbent.He has the power of office.",
+      "char_ratio": 0.8543689250946045,
+      "word_ratio": 0.5384615384615384,
+      "revealed": false,
+      "duration_ms": 33408,
+      "created_at": 1794211177
+    },
+    {
+      "sync_id": "902ad6575196f5e3ae00af2b61207e2f",
+      "word_sync_id": "2f0c7b993471920e11ac07340abd19ab",
+      "term": "incumbent",
+      "typed": "Charies is incumbent.He's got the power of office",
+      "char_ratio": 0.9230769276618958,
+      "word_ratio": 0.8181818181818182,
+      "revealed": true,
+      "duration_ms": 23872,
+      "created_at": 1794211227
+    },
+    {
+      "sync_id": "51d184e46f0c54bad7b34db7df57db17",
+      "word_sync_id": "2f0c7b993471920e11ac07340abd19ab",
+      "term": "incumbent",
+      "typed": "Charies is the incumbent.He's got power of the office",
+      "char_ratio": 0.9629629850387573,
+      "word_ratio": 0.9090909090909091,
+      "revealed": true,
+      "duration_ms": 41408,
+      "created_at": 1794211280
+    },
+    {
+      "sync_id": "90f5b89ce00b846695fff34cf4317ed6",
+      "word_sync_id": "2f0c7b993471920e11ac07340abd19ab",
+      "term": "incumbent",
+      "typed": "Charies is the incumbent.He's got the power of the office",
+      "char_ratio": 1.0,
+      "word_ratio": 1.0,
+      "revealed": true,
+      "duration_ms": 36224,
+      "created_at": 1794211321
     }
   ]
 }
