@@ -1,7 +1,7 @@
 {
   "format": "eword",
   "version": 2,
-  "exported_at": "2026-11-09T08:10:20.8903589Z",
+  "exported_at": "2026-11-09T09:14:37.5894759Z",
   "words": [
     {
       "sync_id": "a072aeff7870a1c7a7d3b286042c5ea0",
@@ -168,9 +168,9 @@
       "term": "denote",
       "definition": "表示，代表",
       "example_en": "\"Katherine\",coined by the ancient Greeks,it denotes \"purity\".",
-      "example_zh": "“katherine”，源自古希腊，意思是纯洁。",
+      "example_zh": "“Katherine”，源自古希腊，意思是纯洁。",
       "created_at": 1794210687,
-      "updated_at": 1794210687,
+      "updated_at": 1794212163,
       "deleted_at": null
     },
     {
@@ -201,6 +201,96 @@
       "example_zh": "我不能来参加你们的婚礼了。",
       "created_at": 1794211037,
       "updated_at": 1794211037,
+      "deleted_at": null
+    },
+    {
+      "sync_id": "6a3784eec54bf9ca5feee0e16a28fbca",
+      "term": "prone",
+      "definition": "有...倾向的",
+      "example_en": "She was prone to depression.",
+      "example_zh": "她有抑郁倾向。",
+      "created_at": 1794211940,
+      "updated_at": 1794211940,
+      "deleted_at": null
+    },
+    {
+      "sync_id": "22d495d8becc0f6c1fbcecdf1e297b83",
+      "term": "sentiment",
+      "definition": "情绪，观点",
+      "example_en": "Love is not a sentiment or feeling.",
+      "example_zh": "爱并非是一种情绪或者感受",
+      "created_at": 1794212780,
+      "updated_at": 1794212780,
+      "deleted_at": null
+    },
+    {
+      "sync_id": "82f78aa2adffcb0aa421d9877e13264f",
+      "term": "passage",
+      "definition": "段落，章节，通道",
+      "example_en": "Instead,he read passages from his books to them.",
+      "example_zh": "相反的是，他把书中写的篇章念给他们听。",
+      "created_at": 1794212977,
+      "updated_at": 1794215669,
+      "deleted_at": null
+    },
+    {
+      "sync_id": "c93e766f61776fae791d623b204a90b4",
+      "term": "university",
+      "definition": "大学",
+      "example_en": "My boy went to the University of Florida.",
+      "example_zh": "我儿子上了Florida大学。",
+      "created_at": 1794213069,
+      "updated_at": 1794213069,
+      "deleted_at": null
+    },
+    {
+      "sync_id": "12f647674b0fa8c0093e8e2468b5aeea",
+      "term": "capital",
+      "definition": "首都",
+      "example_en": "He travelled to Washington,D.C.,the capital of the United States.",
+      "example_zh": "他前往美国首都Washington,D.C.",
+      "created_at": 1794213267,
+      "updated_at": 1794213267,
+      "deleted_at": null
+    },
+    {
+      "sync_id": "9678c5f70d8cdb1c16d0947a5930b304",
+      "term": "hitherto",
+      "definition": "迄今为止",
+      "example_en": "\"Hitherto I have hated to be helped--to be led\"",
+      "example_zh": "至今，我讨厌接收帮助，讨厌有人领着我",
+      "created_at": 1794214093,
+      "updated_at": 1794214093,
+      "deleted_at": null
+    },
+    {
+      "sync_id": "cdab5710902b47effcf5e1402bd15669",
+      "term": "grim",
+      "definition": "令人沮丧的",
+      "example_en": "And the civilian population is starving.That is grim news.",
+      "example_zh": "当地平民正在挨饿。这真是令人沮丧的消息。",
+      "created_at": 1794214579,
+      "updated_at": 1794214579,
+      "deleted_at": null
+    },
+    {
+      "sync_id": "6127bdc2f6826bc90bb5d890179202ed",
+      "term": "lawsuit",
+      "definition": "诉讼，官司",
+      "example_en": "We'll get some money if we win the lawsuit.",
+      "example_zh": "如果官司赢了，我们就能得到赔偿金。",
+      "created_at": 1794214864,
+      "updated_at": 1794214864,
+      "deleted_at": null
+    },
+    {
+      "sync_id": "e9d1ccab08995e8c6e2e9c17c63f9e0a",
+      "term": "extravagant",
+      "definition": "奢侈的，铺张浪费的",
+      "example_en": "There is noting extravagant in their housekeeping,I dare say.",
+      "example_zh": "他们的日常生活绝不会有什么浪费，我敢说。",
+      "created_at": 1794215216,
+      "updated_at": 1794215216,
       "deleted_at": null
     }
   ],
@@ -336,6 +426,204 @@
       "revealed": true,
       "duration_ms": 36224,
       "created_at": 1794211321
+    },
+    {
+      "sync_id": "14409fa18765c7843200c111ac0359a5",
+      "word_sync_id": "318d7afd5f763ed8e411ab19747c2eab",
+      "term": "denote",
+      "typed": "\"katherine\",coined by old Greeks,it denotes \"purity\".",
+      "char_ratio": 0.8461538553237915,
+      "word_ratio": 0.5454545454545454,
+      "revealed": false,
+      "duration_ms": 51943,
+      "created_at": 1794211999
+    },
+    {
+      "sync_id": "b06c382920519bd9dc57ecb128f4a8da",
+      "word_sync_id": "318d7afd5f763ed8e411ab19747c2eab",
+      "term": "denote",
+      "typed": "\"Katherine\",coined by the acient Greeks,it denote \"purity\".",
+      "char_ratio": 0.9818181991577148,
+      "word_ratio": 0.6363636363636364,
+      "revealed": true,
+      "duration_ms": 38528,
+      "created_at": 1794212080
+    },
+    {
+      "sync_id": "80418e05427ba63c2cb967f8f0a7799c",
+      "word_sync_id": "318d7afd5f763ed8e411ab19747c2eab",
+      "term": "denote",
+      "typed": "\"Katherine\",coined by the ancient Greeks,it denotes \"purity\"",
+      "char_ratio": 1.0,
+      "word_ratio": 1.0,
+      "revealed": true,
+      "duration_ms": 36480,
+      "created_at": 1794212128
+    },
+    {
+      "sync_id": "1edeec63355a12a122129ce6582798a1",
+      "word_sync_id": "85fc2b3deb1ec5b3195204d0d775fa21",
+      "term": "successor",
+      "typed": "I swears",
+      "char_ratio": 0.2539682686328888,
+      "word_ratio": 0.09090909090909091,
+      "revealed": false,
+      "duration_ms": 25440,
+      "created_at": 1794212203
+    },
+    {
+      "sync_id": "76ab7f08933ce5acafcbf6a355fd13b5",
+      "word_sync_id": "85fc2b3deb1ec5b3195204d0d775fa21",
+      "term": "successor",
+      "typed": "I swear to uphold King's heirs and lawful successors.",
+      "char_ratio": 0.9433962106704712,
+      "word_ratio": 0.7272727272727273,
+      "revealed": true,
+      "duration_ms": 34760,
+      "created_at": 1794212245
+    },
+    {
+      "sync_id": "f3c955dad2894a2d39ff9fc18532dd65",
+      "word_sync_id": "85fc2b3deb1ec5b3195204d0d775fa21",
+      "term": "successor",
+      "typed": "I swear to uphold the king's heirs and lawful successors.",
+      "char_ratio": 1.0,
+      "word_ratio": 1.0,
+      "revealed": true,
+      "duration_ms": 41031,
+      "created_at": 1794212295
+    },
+    {
+      "sync_id": "06bd180623b4e952df0638662fa7c0f3",
+      "word_sync_id": "aee31ee61c8f84d3359d1b9fe1a9491b",
+      "term": "slack",
+      "typed": "Business is slack now.",
+      "char_ratio": 1.0,
+      "word_ratio": 1.0,
+      "revealed": false,
+      "duration_ms": 17079,
+      "created_at": 1794212328
+    },
+    {
+      "sync_id": "e550e1896bf06bea79ef516c91275d80",
+      "word_sync_id": "97aabac0e883f7a3e860c403b0e344ce",
+      "term": "attend",
+      "typed": "I will be not able to attend your wedding.",
+      "char_ratio": 0.9268292784690857,
+      "word_ratio": 0.8,
+      "revealed": false,
+      "duration_ms": 25767,
+      "created_at": 1794212360
+    },
+    {
+      "sync_id": "c13f7815ac5327ab1edd48ee522e958a",
+      "word_sync_id": "97aabac0e883f7a3e860c403b0e344ce",
+      "term": "attend",
+      "typed": "I will not be able to attend your wedding.",
+      "char_ratio": 1.0,
+      "word_ratio": 1.0,
+      "revealed": true,
+      "duration_ms": 17288,
+      "created_at": 1794212391
+    },
+    {
+      "sync_id": "16b34059ee3eccf4ef1b92cf0cb9b0dd",
+      "word_sync_id": "6a3784eec54bf9ca5feee0e16a28fbca",
+      "term": "prone",
+      "typed": "She has prone to depressed",
+      "char_ratio": 0.8679245114326477,
+      "word_ratio": 0.42857142857142855,
+      "revealed": false,
+      "duration_ms": 17376,
+      "created_at": 1794212449
+    },
+    {
+      "sync_id": "d9e007447bb240f1d5ac84b88d882d21",
+      "word_sync_id": "6a3784eec54bf9ca5feee0e16a28fbca",
+      "term": "prone",
+      "typed": "She was prone to depression",
+      "char_ratio": 1.0,
+      "word_ratio": 1.0,
+      "revealed": true,
+      "duration_ms": 11087,
+      "created_at": 1794212475
+    },
+    {
+      "sync_id": "b376e2f99399ead5a13dab8db8e87409",
+      "word_sync_id": "318d7afd5f763ed8e411ab19747c2eab",
+      "term": "denote",
+      "typed": "\"Katherine\",coined by the ancient Greeks,it denotes \"purity\"",
+      "char_ratio": 1.0,
+      "word_ratio": 1.0,
+      "revealed": false,
+      "duration_ms": 33711,
+      "created_at": 1794212593
+    },
+    {
+      "sync_id": "68f5ae5578b2a6011516c9a2df1be31d",
+      "word_sync_id": "85fc2b3deb1ec5b3195204d0d775fa21",
+      "term": "successor",
+      "typed": "I swear to uphold the king's heirs and lawful successors",
+      "char_ratio": 1.0,
+      "word_ratio": 1.0,
+      "revealed": false,
+      "duration_ms": 35495,
+      "created_at": 1794212642
+    },
+    {
+      "sync_id": "b078f2419b917b1559d9d2d88a38a379",
+      "word_sync_id": "aee31ee61c8f84d3359d1b9fe1a9491b",
+      "term": "slack",
+      "typed": "Business is slack now",
+      "char_ratio": 1.0,
+      "word_ratio": 1.0,
+      "revealed": false,
+      "duration_ms": 15167,
+      "created_at": 1794212665
+    },
+    {
+      "sync_id": "f3665d7c861d1796e7da41d2f86a4064",
+      "word_sync_id": "97aabac0e883f7a3e860c403b0e344ce",
+      "term": "attend",
+      "typed": "I will not be able to attend your wedding",
+      "char_ratio": 1.0,
+      "word_ratio": 1.0,
+      "revealed": false,
+      "duration_ms": 14647,
+      "created_at": 1794212692
+    },
+    {
+      "sync_id": "d013296818e7c15c7e2e229abce39847",
+      "word_sync_id": "22d495d8becc0f6c1fbcecdf1e297b83",
+      "term": "sentiment",
+      "typed": "Love not is sentiment or feeling",
+      "char_ratio": 0.9090909361839294,
+      "word_ratio": 0.625,
+      "revealed": false,
+      "duration_ms": 19471,
+      "created_at": 1794215394
+    },
+    {
+      "sync_id": "b833a7212830a99c27ec2cb3ef048cf0",
+      "word_sync_id": "22d495d8becc0f6c1fbcecdf1e297b83",
+      "term": "sentiment",
+      "typed": "Love is not a sentiment or feeling",
+      "char_ratio": 1.0,
+      "word_ratio": 1.0,
+      "revealed": true,
+      "duration_ms": 12296,
+      "created_at": 1794215417
+    },
+    {
+      "sync_id": "50ca4d136d8aa59af1041b724e65c86c",
+      "word_sync_id": "82f78aa2adffcb0aa421d9877e13264f",
+      "term": "passage",
+      "typed": "Instead,he read passages in his book to them",
+      "char_ratio": 0.901098906993866,
+      "word_ratio": 0.5,
+      "revealed": false,
+      "duration_ms": 54582,
+      "created_at": 1794215587
     }
   ]
 }
