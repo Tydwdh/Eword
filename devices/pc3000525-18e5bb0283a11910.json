@@ -1,7 +1,7 @@
 {
   "format": "eword",
   "version": 2,
-  "exported_at": "2026-11-07T10:00:47.314116Z",
+  "exported_at": "2026-11-09T06:01:04.0410463Z",
   "words": [
     {
       "sync_id": "a072aeff7870a1c7a7d3b286042c5ea0",
@@ -51,6 +51,36 @@
       "example_zh": "茶叶是一种长青灌木的叶子，这种灌木成长在中国和日本。",
       "created_at": 1793952035,
       "updated_at": 1793952035,
+      "deleted_at": null
+    },
+    {
+      "sync_id": "91f7091d110b96d173e3cc05e0bb5ff8",
+      "term": "fling",
+      "definition": "扔、掷",
+      "example_en": "Strickland seized his glass and flung it at him",
+      "example_zh": "Strickland 抄起酒杯，向他扔去。（过去式）",
+      "created_at": 1794203792,
+      "updated_at": 1794203792,
+      "deleted_at": null
+    },
+    {
+      "sync_id": "bfb266d08e2333340ad7451d856f456f",
+      "term": "rigorous",
+      "definition": "严厉的，严格的",
+      "example_en": "Only one boy in four survives this rigorous training.",
+      "example_zh": "四个男孩里只有一个挺过了严格的训练",
+      "created_at": 1794203951,
+      "updated_at": 1794203951,
+      "deleted_at": null
+    },
+    {
+      "sync_id": "374e5253f88773b104c58502684cd814",
+      "term": "scrub",
+      "definition": "擦洗，刷洗",
+      "example_en": "Scrub your hands with sope.",
+      "example_zh": "用肥皂擦洗你的手",
+      "created_at": 1794204056,
+      "updated_at": 1794204056,
       "deleted_at": null
     }
   ],
