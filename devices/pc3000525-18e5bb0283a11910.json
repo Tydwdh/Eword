@@ -1,7 +1,7 @@
 {
   "format": "eword",
   "version": 2,
-  "exported_at": "2026-11-09T09:28:37.3983246Z",
+  "exported_at": "2026-11-09T09:38:31.5996974Z",
   "words": [
     {
       "sync_id": "a072aeff7870a1c7a7d3b286042c5ea0",
@@ -624,6 +624,94 @@
       "revealed": false,
       "duration_ms": 54582,
       "created_at": 1794215587
+    },
+    {
+      "sync_id": "fd4aa3cfea0111b25184d0f45db5cbf4",
+      "word_sync_id": "c93e766f61776fae791d623b204a90b4",
+      "term": "university",
+      "typed": "My boy went to the University of Florida",
+      "char_ratio": 1.0,
+      "word_ratio": 1.0,
+      "revealed": false,
+      "duration_ms": 23304,
+      "created_at": 1794216554
+    },
+    {
+      "sync_id": "2d328bf4afa757d46552758e56cc0153",
+      "word_sync_id": "9678c5f70d8cdb1c16d0947a5930b304",
+      "term": "hitherto",
+      "typed": "hitherto I hated been helped - led me",
+      "char_ratio": 0.7341772317886353,
+      "word_ratio": 0.21428571428571427,
+      "revealed": false,
+      "duration_ms": 59448,
+      "created_at": 1794216624
+    },
+    {
+      "sync_id": "19ef8ac3e546f2617a5de3cdfd0f0241",
+      "word_sync_id": "9678c5f70d8cdb1c16d0947a5930b304",
+      "term": "hitherto",
+      "typed": "Hitherto I have hated to be helped - led me",
+      "char_ratio": 0.8941176533699036,
+      "word_ratio": 0.5833333333333334,
+      "revealed": true,
+      "duration_ms": 30184,
+      "created_at": 1794216723
+    },
+    {
+      "sync_id": "e02e1b4511340404e2c2216500094dd3",
+      "word_sync_id": "9678c5f70d8cdb1c16d0947a5930b304",
+      "term": "hitherto",
+      "typed": "\"Hitherto I have hated to be helped to be led\"",
+      "char_ratio": 1.0,
+      "word_ratio": 1.0,
+      "revealed": true,
+      "duration_ms": 43752,
+      "created_at": 1794216773
+    },
+    {
+      "sync_id": "4b985893e449faf2d81c411e3cf0d72e",
+      "word_sync_id": "cdab5710902b47effcf5e1402bd15669",
+      "term": "grim",
+      "typed": "And the civilian population is starving.That is grim news",
+      "char_ratio": 1.0,
+      "word_ratio": 1.0,
+      "revealed": false,
+      "duration_ms": 52296,
+      "created_at": 1794216833
+    },
+    {
+      "sync_id": "be30541968569ce807d95d9acb70ee48",
+      "word_sync_id": "6127bdc2f6826bc90bb5d890179202ed",
+      "term": "lawsuit",
+      "typed": "We'll get some money if win the lawsuit",
+      "char_ratio": 0.9620253443717957,
+      "word_ratio": 0.8888888888888888,
+      "revealed": false,
+      "duration_ms": 36831,
+      "created_at": 1794216925
+    },
+    {
+      "sync_id": "54d6a4ba390f0c0ac900fbc5e2badbbe",
+      "word_sync_id": "6127bdc2f6826bc90bb5d890179202ed",
+      "term": "lawsuit",
+      "typed": "We'll get some money if we win the lawsuit",
+      "char_ratio": 1.0,
+      "word_ratio": 1.0,
+      "revealed": true,
+      "duration_ms": 22264,
+      "created_at": 1794216956
+    },
+    {
+      "sync_id": "d9e7317d2847be11ec72dea2d9c244f5",
+      "word_sync_id": "e9d1ccab08995e8c6e2e9c17c63f9e0a",
+      "term": "extravagant",
+      "typed": "There is nothing extravagant in their housekeeping,I dare say.",
+      "char_ratio": 0.9917355179786682,
+      "word_ratio": 0.8181818181818182,
+      "revealed": false,
+      "duration_ms": 43935,
+      "created_at": 1794217011
     }
   ]
 }
