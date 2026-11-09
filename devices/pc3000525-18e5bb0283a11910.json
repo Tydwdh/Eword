@@ -1,7 +1,7 @@
 {
   "format": "eword",
   "version": 2,
-  "exported_at": "2026-11-09T06:01:04.0410463Z",
+  "exported_at": "2026-11-09T07:20:28.4131565Z",
   "words": [
     {
       "sync_id": "a072aeff7870a1c7a7d3b286042c5ea0",
@@ -82,7 +82,166 @@
       "created_at": 1794204056,
       "updated_at": 1794204056,
       "deleted_at": null
+    },
+    {
+      "sync_id": "f6e56d5578564a9e2cc5ed829c557970",
+      "term": "dent",
+      "definition": "损害，伤害",
+      "example_en": "A series of battery fires also briefly dented sales growth last year.",
+      "example_zh": "去年一系列的电池火灾事件也短暂地损害了销量。",
+      "created_at": 1794206533,
+      "updated_at": 1794206533,
+      "deleted_at": null
+    },
+    {
+      "sync_id": "8ed44ecdc076c53b46bfce95591066df",
+      "term": "panarama",
+      "definition": "全景，全景图",
+      "example_en": "From up here,you also get a wonderful panorama of the city.",
+      "example_zh": "从这里，你还可以欣赏到城市壮丽的全景",
+      "created_at": 1794206691,
+      "updated_at": 1794206691,
+      "deleted_at": null
+    },
+    {
+      "sync_id": "c1e9ae64a71686b85f0d999d5e7e377b",
+      "term": "plea",
+      "definition": "恳求",
+      "example_en": "Hiter made his final plea for peace to Britain.",
+      "example_zh": "Hiter最后一次向英国求和。",
+      "created_at": 1794207047,
+      "updated_at": 1794207047,
+      "deleted_at": null
+    },
+    {
+      "sync_id": "234d20b6265cdc39d0848f8db4f95902",
+      "term": "wool",
+      "definition": "毛",
+      "example_en": "It is best for sheep to have the wool taken off.",
+      "example_zh": "剪掉羊毛对羊来说是最好的。",
+      "created_at": 1794207387,
+      "updated_at": 1794207387,
+      "deleted_at": null
+    },
+    {
+      "sync_id": "98668062acab0862249169446cadf04e",
+      "term": "correlate",
+      "definition": "使相互关联",
+      "example_en": "Having a dog correlate to lower scores on anxiety tests.",
+      "example_zh": "养狗和焦虑分数低是有关系的。",
+      "created_at": 1794207579,
+      "updated_at": 1794207579,
+      "deleted_at": null
+    },
+    {
+      "sync_id": "14c6ff5805bb92b6e1a0ba14ea67ea42",
+      "term": "appall",
+      "definition": "使大为震惊",
+      "example_en": "You traitors!I'm appalled at your lack of loyalty!",
+      "example_zh": "你们这群叛徒！我很震惊你们居然这么不忠！",
+      "created_at": 1794207939,
+      "updated_at": 1794207939,
+      "deleted_at": null
+    },
+    {
+      "sync_id": "17380f96486eb48fe6e5336a3372d178",
+      "term": "symphony",
+      "definition": "交响乐",
+      "example_en": "Percy Lewis composed a symphony.",
+      "example_zh": "Percy Lewis 谱写了一首交响曲。",
+      "created_at": 1794208032,
+      "updated_at": 1794208032,
+      "deleted_at": null
     }
   ],
-  "attempts": []
+  "attempts": [
+    {
+      "sync_id": "be5e3e7ef1323d2e40cc2fdfcd379e86",
+      "word_sync_id": "98668062acab0862249169446cadf04e",
+      "term": "correlate",
+      "typed": "Having a dog corrlate to lower scores at anxiety test.",
+      "char_ratio": 0.9454545378684998,
+      "word_ratio": 0.5714285714285714,
+      "revealed": false,
+      "duration_ms": 52368,
+      "created_at": 1794208163
+    },
+    {
+      "sync_id": "91d6ab9ef7915f903a6f102c18240c60",
+      "word_sync_id": "98668062acab0862249169446cadf04e",
+      "term": "correlate",
+      "typed": "Having a dog correlate to lower scores on anxiety tests.",
+      "char_ratio": 1.0,
+      "word_ratio": 1.0,
+      "revealed": true,
+      "duration_ms": 14159,
+      "created_at": 1794208308
+    },
+    {
+      "sync_id": "3538d88d883d99d9cb63f7593e13098c",
+      "word_sync_id": "98668062acab0862249169446cadf04e",
+      "term": "correlate",
+      "typed": "Having a dog correlate to lower scores on anxiety tests.",
+      "char_ratio": 1.0,
+      "word_ratio": 1.0,
+      "revealed": true,
+      "duration_ms": 57616,
+      "created_at": 1794208370
+    },
+    {
+      "sync_id": "228f73d2e7f3cfb00bcd7995247f5f55",
+      "word_sync_id": "14c6ff5805bb92b6e1a0ba14ea67ea42",
+      "term": "appall",
+      "typed": "You traiters!I'm appalled at your lack of loylity!",
+      "char_ratio": 0.9599999785423279,
+      "word_ratio": 0.6923076923076923,
+      "revealed": false,
+      "duration_ms": 54110,
+      "created_at": 1794208530
+    },
+    {
+      "sync_id": "c9643486ce0295306791f598d93103f3",
+      "word_sync_id": "14c6ff5805bb92b6e1a0ba14ea67ea42",
+      "term": "appall",
+      "typed": "You traitors!I'm appalled at your lack of loylity.",
+      "char_ratio": 0.9599999785423279,
+      "word_ratio": 0.6923076923076923,
+      "revealed": true,
+      "duration_ms": 40608,
+      "created_at": 1794208643
+    },
+    {
+      "sync_id": "e6aeee85eeed254f6d0713dbe258f40d",
+      "word_sync_id": "14c6ff5805bb92b6e1a0ba14ea67ea42",
+      "term": "appall",
+      "typed": "You traitors!I'm appalled at your lack of loyalty!",
+      "char_ratio": 1.0,
+      "word_ratio": 1.0,
+      "revealed": true,
+      "duration_ms": 31512,
+      "created_at": 1794208686
+    },
+    {
+      "sync_id": "a49d55ba0cfde53d0604ac5294ed4cbb",
+      "word_sync_id": "17380f96486eb48fe6e5336a3372d178",
+      "term": "symphony",
+      "typed": "Percy Lewis composed a symphony.",
+      "char_ratio": 1.0,
+      "word_ratio": 1.0,
+      "revealed": false,
+      "duration_ms": 28376,
+      "created_at": 1794208727
+    },
+    {
+      "sync_id": "b52ba5b2963ea5593a4b0e18c19cab7e",
+      "word_sync_id": "98668062acab0862249169446cadf04e",
+      "term": "correlate",
+      "typed": "Having a dog correlate to lower scores on anxiety tests",
+      "char_ratio": 0.9909909963607788,
+      "word_ratio": 0.9090909090909091,
+      "revealed": false,
+      "duration_ms": 52455,
+      "created_at": 1794208809
+    }
+  ]
 }
