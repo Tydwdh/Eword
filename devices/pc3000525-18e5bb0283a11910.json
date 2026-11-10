@@ -1,7 +1,7 @@
 {
   "format": "eword",
   "version": 2,
-  "exported_at": "2026-11-10T01:37:21.8909165Z",
+  "exported_at": "2026-11-10T07:01:56.0779353Z",
   "words": [
     {
       "sync_id": "a072aeff7870a1c7a7d3b286042c5ea0",
@@ -287,10 +287,100 @@
       "sync_id": "e9d1ccab08995e8c6e2e9c17c63f9e0a",
       "term": "extravagant",
       "definition": "奢侈的，铺张浪费的",
-      "example_en": "There is noting extravagant in their housekeeping,I dare say.",
+      "example_en": "There is nothing extravagant in their housekeeping,I dare say.",
       "example_zh": "他们的日常生活绝不会有什么浪费，我敢说。",
       "created_at": 1794215216,
-      "updated_at": 1794215216,
+      "updated_at": 1794274816,
+      "deleted_at": null
+    },
+    {
+      "sync_id": "1e2931e09a234f2639001afde6a841ca",
+      "term": "plausible",
+      "definition": "貌似合理的",
+      "example_en": "You must create a plausible explanation for an unexpected death.",
+      "example_zh": "你必须为意外死亡编造一个合理的解释",
+      "created_at": 1794275924,
+      "updated_at": 1794275924,
+      "deleted_at": null
+    },
+    {
+      "sync_id": "ec081cab5d726e0fc07989e6aef46b52",
+      "term": "abroad",
+      "definition": "在国外，去国外",
+      "example_en": "He went abroad,and soon news came of his death.",
+      "example_zh": "他出了国，不就就有他已经去世的消息传来。",
+      "created_at": 1794276107,
+      "updated_at": 1794276107,
+      "deleted_at": null
+    },
+    {
+      "sync_id": "0b4b03139c8906a888f8749aff2050f9",
+      "term": "bore",
+      "definition": "使厌烦",
+      "example_en": "Anyway,I'm not going to bore you guys with a lecture.",
+      "example_zh": "无论如何，我不打算做无聊的演讲",
+      "created_at": 1794276321,
+      "updated_at": 1794276321,
+      "deleted_at": null
+    },
+    {
+      "sync_id": "c1e993536168b26a1806abefe3b5153e",
+      "term": "theater",
+      "definition": "剧场，戏剧",
+      "example_en": "Tonight I am going to the theater with my friends.",
+      "example_zh": "今晚，我要跟我的朋友们一起去剧院",
+      "created_at": 1794276457,
+      "updated_at": 1794276457,
+      "deleted_at": null
+    },
+    {
+      "sync_id": "8005727750b1824d961ee3b0b52eac00",
+      "term": "celebrity",
+      "definition": "明星，名声",
+      "example_en": "Moe's a big celebrity now",
+      "example_zh": "Moe 现在是个大明星了",
+      "created_at": 1794276559,
+      "updated_at": 1794276559,
+      "deleted_at": null
+    },
+    {
+      "sync_id": "89f10f03249ee22140d6cfe8adcccff2",
+      "term": "denial",
+      "definition": "否认，拒绝",
+      "example_en": "He repeated a denial of any link with Russia on that issue",
+      "example_zh": "他再次否认此事与俄罗斯有任何关系",
+      "created_at": 1794276643,
+      "updated_at": 1794276643,
+      "deleted_at": null
+    },
+    {
+      "sync_id": "2304eeae4b22fc5856e3c10726d18aeb",
+      "term": "closet",
+      "definition": "储藏室，衣柜",
+      "example_en": "My clothes are in the closet.",
+      "example_zh": "我的衣服都在衣柜里了",
+      "created_at": 1794276797,
+      "updated_at": 1794276797,
+      "deleted_at": null
+    },
+    {
+      "sync_id": "7087ec924cfc6578fcdd46a48f5dbdc1",
+      "term": "variance",
+      "definition": "变化幅度，差额",
+      "example_en": "There's virtually no variance in each of his accounts.His story never changes",
+      "example_zh": "他每次的描述几乎都没差。他的说辞从没变过",
+      "created_at": 1794276986,
+      "updated_at": 1794276986,
+      "deleted_at": null
+    },
+    {
+      "sync_id": "f571e5706fe69fd77c71ce759c32711c",
+      "term": "embryo",
+      "definition": "胚胎",
+      "example_en": "That eggshell protects the developing embryo",
+      "example_zh": "那些蛋壳保护着里面发育中的胚胎",
+      "created_at": 1794277433,
+      "updated_at": 1794277433,
       "deleted_at": null
     }
   ],
@@ -712,6 +802,138 @@
       "revealed": false,
       "duration_ms": 43935,
       "created_at": 1794217011
+    },
+    {
+      "sync_id": "b2a75ca621463d7c738d1afb7cbdd21c",
+      "word_sync_id": "e9d1ccab08995e8c6e2e9c17c63f9e0a",
+      "term": "extravagant",
+      "typed": "There has nothing extravagant on their housekeeping,I dare say",
+      "char_ratio": 0.9508196711540222,
+      "word_ratio": 0.5384615384615384,
+      "revealed": false,
+      "duration_ms": 57304,
+      "created_at": 1794274748
+    },
+    {
+      "sync_id": "0eab10174a6b86f879967facb98ec14c",
+      "word_sync_id": "6127bdc2f6826bc90bb5d890179202ed",
+      "term": "lawsuit",
+      "typed": "We'll get some money if we win the lawsuit",
+      "char_ratio": 1.0,
+      "word_ratio": 1.0,
+      "revealed": false,
+      "duration_ms": 25415,
+      "created_at": 1794274850
+    },
+    {
+      "sync_id": "b1552d254eb0e4b3773da035df552cad",
+      "word_sync_id": "cdab5710902b47effcf5e1402bd15669",
+      "term": "grim",
+      "typed": "And the civilian population is strvaing.That are grim news",
+      "char_ratio": 0.939130425453186,
+      "word_ratio": 0.6666666666666666,
+      "revealed": false,
+      "duration_ms": 64815,
+      "created_at": 1794275082
+    },
+    {
+      "sync_id": "a0357d37da6054a201d1a7964cac1bbf",
+      "word_sync_id": "cdab5710902b47effcf5e1402bd15669",
+      "term": "grim",
+      "typed": "And the civilian population is starving.That is grim news",
+      "char_ratio": 1.0,
+      "word_ratio": 1.0,
+      "revealed": true,
+      "duration_ms": 37136,
+      "created_at": 1794275145
+    },
+    {
+      "sync_id": "69d57a755f82600e041f359f955c6f97",
+      "word_sync_id": "9678c5f70d8cdb1c16d0947a5930b304",
+      "term": "hitherto",
+      "typed": "Hitherto I hated to be helped to be led",
+      "char_ratio": 0.9397590160369873,
+      "word_ratio": 0.9,
+      "revealed": false,
+      "duration_ms": 58511,
+      "created_at": 1794275315
+    },
+    {
+      "sync_id": "26de9c27ce37a97c52762ff8c627dc2e",
+      "word_sync_id": "9678c5f70d8cdb1c16d0947a5930b304",
+      "term": "hitherto",
+      "typed": "Hitherto I have hated to be helped to be led",
+      "char_ratio": 1.0,
+      "word_ratio": 1.0,
+      "revealed": true,
+      "duration_ms": 6344,
+      "created_at": 1794275335
+    },
+    {
+      "sync_id": "53a30732cce91e00136496bf49baa79b",
+      "word_sync_id": "6a3784eec54bf9ca5feee0e16a28fbca",
+      "term": "prone",
+      "typed": "She is prone depression",
+      "char_ratio": 0.8799999952316284,
+      "word_ratio": 0.5,
+      "revealed": false,
+      "duration_ms": 22823,
+      "created_at": 1794275366
+    },
+    {
+      "sync_id": "b4581466274c7d0882d54ef53372a25b",
+      "word_sync_id": "6a3784eec54bf9ca5feee0e16a28fbca",
+      "term": "prone",
+      "typed": "She was prone to depress",
+      "char_ratio": 0.9411764740943909,
+      "word_ratio": 0.6666666666666666,
+      "revealed": true,
+      "duration_ms": 9017,
+      "created_at": 1794275380
+    },
+    {
+      "sync_id": "ae8bb49709e9fc94cc9d752871dba5a8",
+      "word_sync_id": "6a3784eec54bf9ca5feee0e16a28fbca",
+      "term": "prone",
+      "typed": "She was prone to depression",
+      "char_ratio": 1.0,
+      "word_ratio": 1.0,
+      "revealed": true,
+      "duration_ms": 8504,
+      "created_at": 1794275391
+    },
+    {
+      "sync_id": "1702ef7fe71024a2f345b088f9472c47",
+      "word_sync_id": "2f0c7b993471920e11ac07340abd19ab",
+      "term": "incumbent",
+      "typed": "Charies is the incumbent.He have got the power of office",
+      "char_ratio": 0.9107142686843872,
+      "word_ratio": 0.6923076923076923,
+      "revealed": false,
+      "duration_ms": 57951,
+      "created_at": 1794275455
+    },
+    {
+      "sync_id": "9c62efb6d4dbcd058b3268964d0bb52f",
+      "word_sync_id": "2f0c7b993471920e11ac07340abd19ab",
+      "term": "incumbent",
+      "typed": "Charies is the incumbent. He's got the power of office",
+      "char_ratio": 0.9629629850387573,
+      "word_ratio": 0.9090909090909091,
+      "revealed": true,
+      "duration_ms": 25678,
+      "created_at": 1794275587
+    },
+    {
+      "sync_id": "009daab540cdd7a19f373fa29cff91f5",
+      "word_sync_id": "2f0c7b993471920e11ac07340abd19ab",
+      "term": "incumbent",
+      "typed": "Charies is the incumbent. He's got the power of the office",
+      "char_ratio": 1.0,
+      "word_ratio": 1.0,
+      "revealed": true,
+      "duration_ms": 5720,
+      "created_at": 1794275607
     }
   ]
 }
