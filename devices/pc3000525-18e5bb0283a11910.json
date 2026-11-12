@@ -1,7 +1,7 @@
 {
   "format": "eword",
   "version": 2,
-  "exported_at": "2026-11-10T07:38:15.0920532Z",
+  "exported_at": "2026-11-12T06:40:08.1538403Z",
   "words": [
     {
       "sync_id": "a072aeff7870a1c7a7d3b286042c5ea0",
@@ -381,6 +381,66 @@
       "example_zh": "那些蛋壳保护着里面发育中的胚胎",
       "created_at": 1794277433,
       "updated_at": 1794277433,
+      "deleted_at": null
+    },
+    {
+      "sync_id": "6c31ba4c1bffffc592a7a388ed0677d3",
+      "term": "devastate",
+      "definition": "彻底破坏",
+      "example_en": "We have weapons that could devastate the entire planet.",
+      "example_zh": "我们拥有可以摧毁整个星球的武器。",
+      "created_at": 1794298341,
+      "updated_at": 1794299172,
+      "deleted_at": null
+    },
+    {
+      "sync_id": "d74a9962c72f07a534e17515e0c9356f",
+      "term": "naive",
+      "definition": "幼稚的，天真的",
+      "example_en": "I may be naive,but I'm not stupid",
+      "example_zh": "也许我很天真，但我并不蠢",
+      "created_at": 1794298485,
+      "updated_at": 1794298485,
+      "deleted_at": null
+    },
+    {
+      "sync_id": "a6da400440ee40763c878daa1ba0facc",
+      "term": "notwithstanding",
+      "definition": "尽管，虽然",
+      "example_en": "Legality notwithstanding ,why would someone willingly keep these animals as pets?",
+      "example_zh": "尽管是合法的，但是为什么会有人想要养这些动物当作宠物呢",
+      "created_at": 1794299664,
+      "updated_at": 1794299664,
+      "deleted_at": null
+    },
+    {
+      "sync_id": "b6063980c15a1714e1a5d46026325a6b",
+      "term": "commencement",
+      "definition": "毕业典礼",
+      "example_en": "When I was asked to make the commmencement speech.I immediately say yes",
+      "example_zh": "当我被邀请来参加毕业典礼的演讲的时候，我立刻就答应了",
+      "created_at": 1794300093,
+      "updated_at": 1794300093,
+      "deleted_at": null
+    },
+    {
+      "sync_id": "13816e35ab13dba5ef4bd52f3f809107",
+      "term": "huddle",
+      "definition": "挤在一起",
+      "example_en": "while some rely on their mother for protection,others huddle together.",
+      "example_zh": "有些小企鹅依靠妈妈提供帮助，而有些则他们自己挤作一团",
+      "created_at": 1794300476,
+      "updated_at": 1794300476,
+      "deleted_at": null
+    },
+    {
+      "sync_id": "c934b181963df2b46e774de6a7ea839c",
+      "term": "statute",
+      "definition": "法令，法规",
+      "example_en": "I'm prevented from that by federal statute",
+      "example_zh": "因为联邦政府所以我不能这么做",
+      "created_at": 1794300608,
+      "updated_at": 1794300608,
       "deleted_at": null
     }
   ],
@@ -934,6 +994,138 @@
       "revealed": true,
       "duration_ms": 5720,
       "created_at": 1794275607
+    },
+    {
+      "sync_id": "90a1d9bd087173198cde891ba8eb6eed",
+      "word_sync_id": "f571e5706fe69fd77c71ce759c32711c",
+      "term": "embryo",
+      "typed": "That eggshell protect the embroy which is growth",
+      "char_ratio": 0.695652186870575,
+      "word_ratio": 0.2727272727272727,
+      "revealed": false,
+      "duration_ms": 40959,
+      "created_at": 1794296399
+    },
+    {
+      "sync_id": "c18028086ee1b702fb448f0998f87367",
+      "word_sync_id": "f571e5706fe69fd77c71ce759c32711c",
+      "term": "embryo",
+      "typed": "That eggshell protects the develping embryo",
+      "char_ratio": 0.9885057210922241,
+      "word_ratio": 0.7142857142857143,
+      "revealed": true,
+      "duration_ms": 29601,
+      "created_at": 1794296440
+    },
+    {
+      "sync_id": "f02465695c0fb546af1adaefea42a556",
+      "word_sync_id": "f571e5706fe69fd77c71ce759c32711c",
+      "term": "embryo",
+      "typed": "That eggshell protects the developing embryo",
+      "char_ratio": 1.0,
+      "word_ratio": 1.0,
+      "revealed": true,
+      "duration_ms": 32288,
+      "created_at": 1794296488
+    },
+    {
+      "sync_id": "331cb82d5fe394b838fa458edab5c9cf",
+      "word_sync_id": "8005727750b1824d961ee3b0b52eac00",
+      "term": "celebrity",
+      "typed": "Moe's a celebrity now",
+      "char_ratio": 0.9090909361839294,
+      "word_ratio": 0.8,
+      "revealed": false,
+      "duration_ms": 16776,
+      "created_at": 1794298584
+    },
+    {
+      "sync_id": "454a91ba753e73b0dc4871688d86af8b",
+      "word_sync_id": "8005727750b1824d961ee3b0b52eac00",
+      "term": "celebrity",
+      "typed": "Moe's a big celebrity now",
+      "char_ratio": 1.0,
+      "word_ratio": 1.0,
+      "revealed": true,
+      "duration_ms": 11176,
+      "created_at": 1794298602
+    },
+    {
+      "sync_id": "99317d90daddccd421b1982f10e6055c",
+      "word_sync_id": "7087ec924cfc6578fcdd46a48f5dbdc1",
+      "term": "variance",
+      "typed": "There's virtually no variance in each of his accounts.His story never changes",
+      "char_ratio": 1.0,
+      "word_ratio": 1.0,
+      "revealed": false,
+      "duration_ms": 156151,
+      "created_at": 1794298772
+    },
+    {
+      "sync_id": "b47666e1990b20b189e3ae1cae0edf46",
+      "word_sync_id": "7087ec924cfc6578fcdd46a48f5dbdc1",
+      "term": "variance",
+      "typed": "There's virtually no variance in each of his accounts.His story never changes",
+      "char_ratio": 1.0,
+      "word_ratio": 1.0,
+      "revealed": true,
+      "duration_ms": 50048,
+      "created_at": 1794298827
+    },
+    {
+      "sync_id": "f2665ab2ba7ed5ab2dfda167ca1c75b2",
+      "word_sync_id": "f571e5706fe69fd77c71ce759c32711c",
+      "term": "embryo",
+      "typed": "That eggshell protects the developing embryo",
+      "char_ratio": 1.0,
+      "word_ratio": 1.0,
+      "revealed": false,
+      "duration_ms": 42759,
+      "created_at": 1794299049
+    },
+    {
+      "sync_id": "3e8eb4c9aa542fb3dfad2077d1060d96",
+      "word_sync_id": "6c31ba4c1bffffc592a7a388ed0677d3",
+      "term": "devastate",
+      "typed": "We have the weapons which could devastate the whole planet",
+      "char_ratio": 0.8035714030265808,
+      "word_ratio": 0.46153846153846156,
+      "revealed": false,
+      "duration_ms": 45864,
+      "created_at": 1794299137
+    },
+    {
+      "sync_id": "93c29af75d42f553726ad7198233fbc2",
+      "word_sync_id": "d74a9962c72f07a534e17515e0c9356f",
+      "term": "naive",
+      "typed": "May be I'm naive ,but I'm not stupid",
+      "char_ratio": 0.892307698726654,
+      "word_ratio": 0.6,
+      "revealed": false,
+      "duration_ms": 31351,
+      "created_at": 1794299221
+    },
+    {
+      "sync_id": "f51b69578e1c11dffe8215d7c27ab13a",
+      "word_sync_id": "d74a9962c72f07a534e17515e0c9356f",
+      "term": "naive",
+      "typed": "I may be naive,but I'm not studip",
+      "char_ratio": 0.9375,
+      "word_ratio": 0.7777777777777778,
+      "revealed": true,
+      "duration_ms": 23480,
+      "created_at": 1794299261
+    },
+    {
+      "sync_id": "dc276d430056570c726978f2b580af4f",
+      "word_sync_id": "d74a9962c72f07a534e17515e0c9356f",
+      "term": "naive",
+      "typed": "I may be naive ,but I'm not stupid",
+      "char_ratio": 1.0,
+      "word_ratio": 1.0,
+      "revealed": true,
+      "duration_ms": 16280,
+      "created_at": 1794299284
     }
   ]
 }
